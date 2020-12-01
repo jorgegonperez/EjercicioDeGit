@@ -10,5 +10,6 @@ package ejerciciodegit;
  * @author dam
  */
 public class HolaMundo {
-    
+    System.out.println("Hola guapeton");
+
 }
