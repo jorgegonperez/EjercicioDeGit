@@ -10,6 +10,11 @@ package ejerciciodegit;
  * @author dam
  */
 public class HolaMundo {
-    System.out.println("Hola guapeton");
+    
 
+    public static void HolaMundo() {
+        // TODO code application logic here
+        System.out.println("Primer cambio");
+
+}
 }
