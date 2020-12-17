@@ -25,6 +25,7 @@ public class EjerciciodeGit {
         
         
         System.out.println("Se ha creado la clasenueva");
+        System.out.println("Nuevaclase");
     }
     
 }
