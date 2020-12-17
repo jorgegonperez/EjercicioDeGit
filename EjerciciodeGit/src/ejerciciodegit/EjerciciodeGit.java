@@ -22,7 +22,9 @@ public class EjerciciodeGit {
         System.out.println("Mas cambios");
         System.out.println("Veamos que pasa");
     
-        System.out.println("Se ha creado la clasenueva");
+        System.out.println("Se ha creado la clasenuevas");
+    
+        System.out.println("Nuevaclase");
     }
     
 }
